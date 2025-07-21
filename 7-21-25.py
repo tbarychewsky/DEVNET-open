@@ -6,3 +6,4 @@ print ("Commit 3 need to finish this video series before 11AM")
 
 print ("Commit 4  Need to run at least 5 miles tomorrow morning")
 
+print ("Commit 5  phillies game tonight after speech therapy with Henry ")
